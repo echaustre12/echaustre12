@@ -10,10 +10,6 @@ I'm a passionate engineering student at Pontificia Universidad Javeriana, intere
 * 📚 Always curious about new technologies and continuous learning
 * 📫 Reach me at: **[chaustre.luis@javeriana.edu.co](mailto:chaustre.luis@javeriana.edu.co)**
 
-## 🚀 Projects
-
-Coming soon...
-
 ## 🛠️ Languages & Tools
 
 <p align="left">
@@ -58,6 +54,69 @@ Coming soon...
   </a>
 </p>
 
+## 🚀 Featured Projects
+
+### 📚 EntregaYa
+
+A collaborative academic task management platform designed to improve teamwork in educational environments. The application enables students to organize projects, assign responsibilities, track progress, and coordinate group activities through an intuitive interface tailored for academic use cases.
+
+**Key Features**
+
+* Task assignment and progress tracking
+* Role-based collaboration
+* Academic project organization
+* Team coordination workflows
+
+**Technologies**
+
+* Java
+* Spring Boot
+* PostgreSQL
+* HTML & CSS
+* Docker
+* JUnit
+* SonarQube
+* GitHub Actions
+
+**Software Engineering Practices**
+
+* Microservices Architecture
+* Gang of Four (GoF) Design Patterns
+* Automated Testing
+* Static Code Analysis
+* CI/CD Exploration
+
+🔗 Repository: https://github.com/echaustre12/EntregaYa-App
+
+---
+
+### 🚀 Space Exploration Route Simulator
+
+A C++ application that simulates the navigation of an autonomous space vehicle exploring multiple points of interest. The project focuses on solving route-planning and spatial analysis problems through the implementation and comparison of advanced data structures and algorithms.
+
+**Key Features**
+
+* Route calculation between exploration points
+* Spatial indexing and search
+* Graph-based pathfinding
+* Recursive and iterative algorithm implementations
+
+**Technologies**
+
+* C++
+* STL Containers
+* Graphs
+* Quadtrees
+
+**Computer Science Concepts**
+
+* Data Structures
+* Spatial Trees
+* Graph Traversal Algorithms
+* Algorithm Design and Analysis
+* Recursive and Iterative Problem Solving
+
+🔗 Repository: https://github.com/echaustre12/DataStructuresProject
 
 ## 🌐 Connect with Me
 
