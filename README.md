@@ -116,7 +116,7 @@ A C++ application that simulates the navigation of an autonomous space vehicle e
 * Algorithm Design and Analysis
 * Recursive and Iterative Problem Solving
 
-🔗 Repository: https://github.com/echaustre12/DataStructuresProject
+🔗 Repository: https://github.com/echaustre12/SpaceExplorationSimulator
 
 ## 🌐 Connect with Me
 
