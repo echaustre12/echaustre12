@@ -120,6 +120,6 @@ A C++ application that simulates the navigation of an autonomous space vehicle e
 
 ## 🌐 Connect with Me
 
-* LinkedIn: (Add your profile)
+* LinkedIn: (Coming right after I finish this)
 * Portfolio: (Coming soon)
 * Email: [chaustre.luis@javeriana.edu.co](mailto:chaustre.luis@javeriana.edu.co)
